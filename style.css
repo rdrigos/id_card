@@ -129,8 +129,8 @@ body::before {
     box-shadow: 0 4px 30px rgba(120, 64, 190, 0.6);
 }
   
-.profile-card__social a.telegram {
-    background: linear-gradient(45deg, #1da1f2, #0e71c8);
+.profile-card__social a.discord {
+    background: linear-gradient(45deg, #7289da, #5575e7);
     box-shadow: 0 4px 30px rgba(19, 127, 212, 0.7);
 }
 
