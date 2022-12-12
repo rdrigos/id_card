@@ -131,7 +131,7 @@ body::before {
   
 .profile-card__social a.discord {
     background: linear-gradient(45deg, #7289da, #5575e7);
-    box-shadow: 0 4px 30px rgba(19, 127, 212, 0.7);
+    box-shadow: 0 4px 30px rgba(114, 137, 218, 0.7);
 }
 
 @media screen and (min-height: 920px) {
